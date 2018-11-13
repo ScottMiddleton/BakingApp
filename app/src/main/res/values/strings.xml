@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="step_1">Step 1: </string>
+    <string name="step_2">Step 2: </string>
+    <string name="step_3">Step 3: </string>
+    <string name="step_4">Step 4: </string>
+    <string name="step_5">Step 5: </string>
+    <string name="step_6">Step 6: </string>
+    <string name="step_7">Step 7: </string>
+    <string name="step_8">Step 8: </string>
+    <string name="step_9">Step 9: </string>
+    <string name="step_10">Step 10: </string>
+    <string name="step_11">Step 11: </string>
+    <string name="step_12">Step 12: </string>
+    <string name="step_13">Step 13: </string>
+    <string name="step_14">Step 14: </string>
+    <string name="step_15">Step 15: </string>
+    <string name="ingredients">Ingredients</string>
+    <string name="serialised_recipe_instance">Recipetitle</string>
+    <string name="recipe_instance_default_key">Recipe</string>
+    <string name="decimal_format">#.#</string>
+    <string name="base_url">https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json</string>
+    <string name="appwidget_text">Ingredients</string>
+    <string name="add_widget">Add widget</string>
+    <string name="add_ingredients_button">Add to Widget</string>
+
+</resources>
